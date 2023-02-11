@@ -1,4 +1,4 @@
-# Most-Starred-Python-Projects-on-GitHub
+
 # Most Starred Python Projects on GitHub API
 
 An API that finds the most starred Python projects on GitHub using the `requests` library and visualizes the data using `matplotlib`. The API also provides links to each project.
